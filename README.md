@@ -1,3 +1,5 @@
+```
+
 ### Hi there, I'm Tanmay Mane, a Data Science Student 👋
 
 - 📜 I'm currently pursuing MSc in Data Science and Big Data Analysis
@@ -6,3 +8,4 @@
 - 🌴 Fun fact: I love playing ⚽ Football and 🎮 CSGO!
 - 🎌 Motto of life
 > #### Keep learning 💡📖
+```
