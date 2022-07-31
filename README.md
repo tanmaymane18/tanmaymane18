@@ -4,5 +4,4 @@
 - 🧠⚙️ **Deep learning enthusiast 😍**
 - 🥅 **Goals in 2022: Build more ML/DL projects ✨**
 - 🌴 **Fun fact: I love playing ⚽ Football and 🎮 CSGO!**
-- 🎌 **Motto of life**
 > #### **Keep learning 💡📖**
